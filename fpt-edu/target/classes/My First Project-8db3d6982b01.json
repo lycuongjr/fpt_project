@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "valiant-lambda-243404",
+  "private_key_id": "8db3d6982b0118d3621875379623966687f332a2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDIVA7REZ4JAshE\nszgmN1IzEuRzSdovHx6iXvuQ1BCw5xoNauQ+uxMKi3n1dzUzNX+Qw+yhCPz7hvKQ\nCH9MpnjxNSkYCMvZkl3ZT1+7XbnftD/v+Y0gfS7+/RBMYKKcnHTF+l+AiHqm5Oic\nCtPc8XIa7zDsqBAgeZVoxtK+70ME9TkzZkToiYKyBRrx48Z8i/mkrbEu2Nz5K8GX\nwEZ7Vgl26JYe2I9icqhGBUNUnespTM6ukKzc6fPhP11SfC6GYfFO2xmdhvIEtkSV\nkfbOjom9tRuRTqBbCtDDdLUSXtk7GRwRCC06o6ZClH7DRPeZATzkfKt3zR1zINia\nOXpCCIYTAgMBAAECggEANYl1Xj1JkVnrgKSu1FPDhX++iusJQr+b1cPxki6CeWyB\no2VWM0eWmqJUyRt/Hbzl5x/dPNoklenmKEUFFEyHFNtirJgpNm+t4hYa3P1638SR\ns8XrB+w8o4upD+hhfN45PPGhFT4kHTcezRj9rtXd60HSPuTZTnx/x/0etEVIEWoo\nv6PU0F3WetBziN7Hw85wA7gbVke9c9X1bpxNbEZBmXlnvlpv1pak92QmEEYh+As8\nVzvj+mnqSCjxz1THwXyVrOPkslkpBAX3VWE+Mr79jtlBRPPPoH+8TBaTxowp24Uv\nKfLrge32SnHmgr2Jl8FV9arQLxXwypEdtOwlxFQ2wQKBgQDkdC/qOPZtYO/7tu4U\nJe75ls1KnLeKNVok5n1NZnSQnSa1CSJjmXVOowMPheLLATszFMlwKGtN9zomVf6y\nKO84k9LaTFjmGwo8+SS+A4SXcHcuwG2ULIYkMaBC0lPF4G7/P0f9JMdmTdIUi+JC\n9G312UzBrfiSDxSajQtzlOtlwQKBgQDge7R813QOBVkrz3VY9veu8BgAOIA7XOQX\nNsHz9vVO9roi+rZdlUFDxR8qYYzpgMQKOc9+CUOyclhEFf6dGD3UXuV3WIT4/TUI\nKzEaa5cyDcPtUxEVWzen2AM8TmmBss0YKXwcwADy044rRLysIb6RfhrnfN9toa/R\nic8l2n2o0wKBgQDOIySlBNce5OxGRc7XcU8L+Q2ueHCIjhGT4EJKF9uwLY0ip2ZX\nVr3pwd9eH2H/6VGAiw4kXOROCnl24/uYyKTqeUA159QDdXysfeawab43Y6y3C70U\niYRUnk7MXLpof1XIjVIo0gn2ftvD3GDCJ4oc3wGKda8oI+Fkf0ZI+aPaQQKBgARW\n/+dF9w1qVw38xcUBiUpNg/lFHl2HbzVvrpI73QQ4yuJwPGRUxV09C1wzZJkDD0cv\nVO6X2UIy6bfvQOvikxdu+jqzcGar5oGQ7DMZj2O9VmNZLsRd7haFm5Jn5axHO6XS\n735Sy/Hl2yLFAmzFfjyr1nNRO7SP4qlHY8TUk4dXAoGBANS3AIw8VQNpQGUJMna6\n2wM7uNTxP01D4+HnfV6I/4bjGyMlygEub9x9r4O3Ns/BCF+6Dh2+sZ4De2r/tAdl\nqcJxSbjaPbvSF5f1nsf/6hV2/kN6q2i67eDm3nCCNynHBZQDjqnGf77Gw2RpQn9K\nMVhVB2Pnfz7QaseR0MuWO3h1\n-----END PRIVATE KEY-----\n",
+  "client_email": "video-channel@valiant-lambda-243404.iam.gserviceaccount.com",
+  "client_id": "111421143567494872850",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/video-channel%40valiant-lambda-243404.iam.gserviceaccount.com"
+}
